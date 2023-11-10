@@ -1,0 +1,11 @@
+
+.idea/dataSources.xml
+.idea/djangoProject.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+db.sqlite3
+*.pyc
+*.pyc
+snippets/__pycache__/
